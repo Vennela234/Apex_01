@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: plum;
+    margin: 20px;
+    color: #333;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    line-height: 4;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    border-radius: 12px;
+}
+
+a {
+    color: rgb(10, 182, 239);
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 30px;
+    border: black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: green;
+}
